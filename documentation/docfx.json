@@ -27,12 +27,6 @@
       "_appTitle": "mysite",
       "_enableSearch": true,
       "pdf": false
-    },
-    "redirections": [
-      {
-        "source_path": "1_23_5.html",
-        "redirect_url": "Validator/Protocol/CheckConnections/Validator_1_23_5.html"
-      }
-    ]
+    }
   }
 }
